@@ -48,7 +48,7 @@ Deleting the app removes everything it stored on your phone, including the sign-
 
 ### Contact
 
-<contact email>
+phalelashvili@protonmail.com
 
 ---
 
@@ -98,4 +98,4 @@ Deleting the app removes everything it stored on your phone, including the sign-
 
 ### კონტაქტი
 
-<contact email>
+phalelashvili@protonmail.com
