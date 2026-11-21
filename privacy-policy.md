@@ -152,5 +152,4 @@ aren't linked to you, so they can't be picked out by person; they expire on thei
 
 ### კონტაქტი
 
-`
-phalelashvili@protonmail.com`
+`phalelashvili@protonmail.com`
